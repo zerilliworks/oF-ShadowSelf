@@ -1,0 +1,43 @@
+<PLAYLIST>
+	<ID>1</ID>
+	<NAME>Default Playlist</NAME>
+	<NSONGS>3</NSONGS>
+	<SONG1>
+		<ID>10</ID>
+		<NAME>Daily Transit</NAME>
+		<ARTIST>Morgantj</ARTIST>
+		<ALBUM>CCMixter</ALBUM>
+		<COVER>img/music/ccmixter.jpg</COVER>
+		<FILE>sound/music/dailytransit.wav</FILE>
+	</SONG1>
+	<SONG2>
+		<ID>11</ID>
+		<NAME>Aluminum Sticks</NAME>
+		<ARTIST>Morgantj</ARTIST>
+		<ALBUM>CCMixter</ALBUM>
+		<COVER>img/music/ccmixter.jpg</COVER>
+		<FILE>sound/music/aluminumsticks.mp3</FILE>
+	</SONG2>
+	<SONG3>
+		<ID>11</ID>
+		<NAME>Test Drive</NAME>
+		<ARTIST>Zapac</ARTIST>
+		<ALBUM>CCMixter</ALBUM>
+		<COVER>img/music/ccmixter.jpg</COVER>
+		<FILE>sound/music/testdrive.mp3</FILE>
+	</SONG3>
+	<SONG4>
+		<ID>11</ID>
+		<NAME>Wired But Disconnected</NAME>
+		<ARTIST>duckett</ARTIST>
+		<ALBUM>CCMixter</ALBUM>
+		<COVER>img/music/ccmixter.jpg</COVER>
+		<FILE>sound/music/wired.mp3</FILE>
+	</SONG4>
+
+
+	<SONG>
+	<ID>-1</ID>
+	<!--This is the terminator. Go back to the start of the list-->
+	</SONG>
+</PLAYLIST>

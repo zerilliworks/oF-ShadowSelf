@@ -1,0 +1,37 @@
+<def>ZWAPP_2010</def>
+<version>1.15A</version>
+<init>
+    <useintro>0</useintro>
+    <usesongplayer>1</usesongplayer>
+</init>
+<gl>
+    <glusesmoothing>1</glusesmoothing>
+    <glusearbtex>1</glusearbtex>
+    <gluseoutlines>0</gluseoutlines>
+    <glmaxframerate>30</glmaxframerate>
+</gl>
+<params>
+    <snshadowsmin>3</snshadowsmin>
+    <snshadowsmax>25</snshadowsmax>
+    <stranslaterange>0</stranslaterange>
+    <sdrawrange>0</sdrawrange>
+    <ssizemodmin>0.5</ssizemodmin>
+    <ssizemodmax>3</ssizemodmax>
+    <srandomfactorrange>200</srandomfactorrange>
+    <sthetamodxmin>-1</sthetamodxmin>
+    <sthetamodxmax>1</sthetamodxmax>
+    <sthetamodymin>-1</sthetamodymin>
+    <sthetamodymax>1</sthetamodymax>
+    <zscale>-1000</zscale>
+    <mutanglemodmin>0</mutanglemodmin>
+    <mutanglemodmax>360</mutanglemodmax>
+    <snarmsmin>10</snarmsmin>
+    <snarmsmax>20</snarmsmax>
+    <innerradiusmin>100</innerradiusmin>
+    <innerradiusmax>500</innerradiusmax>
+    <outerradiusmin>700</outerradiusmin>
+    <outerradiusmax>2000</outerradiusmax>
+    <snshadowsperarmmin>20</snshadowsperarmmin>
+    <snshadowsperarmmax>25</snshadowsperarmmax>
+    <currentcaps>1</currentcaps>
+</params>
